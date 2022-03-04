@@ -5,4 +5,5 @@ kothuru
 dachepalli
 guntur
 522414
-
+hyderabad
+chinthal
