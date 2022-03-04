@@ -5,4 +5,4 @@ guntur
 522414
 chinthal
 hyderabad
-
+rangareddy
